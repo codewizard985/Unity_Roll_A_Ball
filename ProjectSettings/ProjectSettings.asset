@@ -249,8 +249,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/Simplon/Documents/Android transformation projects/SIMPLON_ROLL_A_BALL-MAIN.keystore
-  AndroidKeyaliasName: roll_a_ball-main
+  AndroidKeystoreName: C:/Users/Simplon/Documents/Android transformation projects/ROLL_A_BALL.keystore
+  AndroidKeyaliasName: rollball
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
